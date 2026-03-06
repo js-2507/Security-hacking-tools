@@ -1,0 +1,20 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (if you use venv)
+venv/
+.env
+
+# Tool-specific logs and outputs
+scan_results.txt
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific (VS Code / PyCharm)
+.vscode/
+.idea/
