@@ -22,11 +22,11 @@ A lightweight, cross-platform Python CLI tool used to verify host availability a
 ### Installation
 
 1. Clone or download this repository to your local machine.
-2. Save the script as `scanner.py`.
+2. Save the script as `PortScanner.py`.
 
 ### Usage
 
 Run the script from your terminal or command prompt:
 
 ```bash
-python scanner.py
+python PortScanner.py
